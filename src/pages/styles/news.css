@@ -1,0 +1,30 @@
+.news {
+    background-color: #ffffff;
+    /* Песочный цвет фона */
+    border: 2px solid #13b0e0;
+    /* Коричневая рамка */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    clear: none;
+}
+
+.news_title {
+    float: left;
+    margin-right: 15px;
+    color: #13b0e0;
+    /* Коричневый цвет текста */
+}
+
+.news_briefDescription {
+    clear: right;
+    color: #333;
+    /* Черный цвет текста */
+}
+
+.news_url {
+    clear: both;
+    color: #555;
+    /* Темно-серый цвет текста */
+}
